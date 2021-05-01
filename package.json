@@ -1,8 +1,7 @@
 {
-    "name": "gulp-scss-starter",
+    "name": "Bukee",
     "description": "Frontend development with pleasure",
-    "author": "Andrey Gorokhov",
-    "repository": "https://github.com/andreyalexeich/gulp-scss-starter.git",
+    "author": "Birsan Valeriu",
     "license": "MIT",
     "scripts": {
         "dev": "gulp",
